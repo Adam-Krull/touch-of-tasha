@@ -1,0 +1,10 @@
+Type: Jupyter Notebook Extension
+Compatibility: 3.x, 4.x, 5.x, 6.x
+Name: The Tasha Touch
+Main: main.js
+Link: README.md
+Description: |
+    Creates a variety of markdown cells formatted the way Tasha knows best.
+    
+Parameters:
+- none
